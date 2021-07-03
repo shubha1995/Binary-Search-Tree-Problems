@@ -42,8 +42,8 @@ public class BinaryTree {
 		print(root.left);
 		System.out.println(root.data);
 		print(root.right);
-		
-		
+
+
 	}
 
 }
